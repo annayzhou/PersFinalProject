@@ -14,9 +14,5 @@ P1 report - the formal write up of Part I
 
 
 
-PHASE II:
-
-subset_numeric.csv - the sample dataset used in Phase II
-
-LSH - the python code for MinHash LSH algorithm implementation
+phaseII folder - Project Phase II submission
 
