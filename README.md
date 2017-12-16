@@ -12,6 +12,8 @@ Model based CF - the python code for user based collaborative filtering algorith
 
 P1 report - the formal write up of Part I
 
+
+
 PHASE II:
 
 subset_numeric.csv - the sample dataset used in Phase II
