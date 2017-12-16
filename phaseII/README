@@ -1,0 +1,16 @@
+
+Personalization Final Project Phase II
+
+Author: Yunwen Cai, Zihan Ye, Anna Zhou
+
+Build a hotel recommender system using the Expedia Hotel Dataset found on Kaggle
+
+SVD_SVD++_baseline.ipynb - the python code for SVD, SVD++ and baseline algorithm implementation
+
+LSH-v2.ipynb - the python code for Locality Sensitive Hashing algorithm with CF implementation
+
+flann_rmse.ipynb - the python code for k-d trees and k-means algorithms with CF implementation
+
+Report Phase II.pdf - Final project report
+
+hotel.Rmd - data to generate plots
